@@ -1,0 +1,34 @@
+/*
+Error: Invalid CSS after "@import "landing"": expected "{", was ";"
+        on line 3 of _sass/main.scss
+
+1: ---
+2: ---
+3: @import "landing";
+
+Backtrace:
+_sass/main.scss:3
+/Users/calecorreos/.gem/gems/sass-3.7.4/lib/sass/scss/parser.rb:1308:in `expected'
+/Users/calecorreos/.gem/gems/sass-3.7.4/lib/sass/scss/parser.rb:1238:in `expected'
+/Users/calecorreos/.gem/gems/sass-3.7.4/lib/sass/scss/parser.rb:1233:in `tok!'
+/Users/calecorreos/.gem/gems/sass-3.7.4/lib/sass/scss/parser.rb:688:in `block'
+/Users/calecorreos/.gem/gems/sass-3.7.4/lib/sass/scss/parser.rb:681:in `ruleset'
+/Users/calecorreos/.gem/gems/sass-3.7.4/lib/sass/scss/parser.rb:707:in `block_child'
+/Users/calecorreos/.gem/gems/sass-3.7.4/lib/sass/scss/parser.rb:697:in `block_contents'
+/Users/calecorreos/.gem/gems/sass-3.7.4/lib/sass/scss/parser.rb:137:in `stylesheet'
+/Users/calecorreos/.gem/gems/sass-3.7.4/lib/sass/scss/parser.rb:41:in `parse'
+/Users/calecorreos/.gem/gems/sass-3.7.4/lib/sass/engine.rb:414:in `_to_tree'
+/Users/calecorreos/.gem/gems/sass-3.7.4/lib/sass/engine.rb:389:in `_render_with_sourcemap'
+/Users/calecorreos/.gem/gems/sass-3.7.4/lib/sass/engine.rb:307:in `render_with_sourcemap'
+/Users/calecorreos/.gem/gems/sass-3.7.4/lib/sass/exec/sass_scss.rb:387:in `run'
+/Users/calecorreos/.gem/gems/sass-3.7.4/lib/sass/exec/sass_scss.rb:63:in `process_result'
+/Users/calecorreos/.gem/gems/sass-3.7.4/lib/sass/exec/base.rb:50:in `parse'
+/Users/calecorreos/.gem/gems/sass-3.7.4/lib/sass/exec/base.rb:18:in `parse!'
+/Users/calecorreos/.gem/gems/sass-3.7.4/bin/sass:13:in `<top (required)>'
+/Users/calecorreos/.gem/bin/sass:23:in `load'
+/Users/calecorreos/.gem/bin/sass:23:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Invalid CSS after \"@import \"landing\"\": expected \"{\", was \";\"\A         on line 3 of _sass/main.scss\A \A 1: ---\A 2: ---\A 3: @import \"landing\";"; }
