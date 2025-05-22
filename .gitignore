@@ -1,0 +1,15 @@
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+
+# Bundler vendor directory
+vendor/
+
+# Ignore local gem dependencies
+Gemfile.lock
+
+# System/IDE files
+.DS_Store
+*.log
+*.swp
