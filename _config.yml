@@ -50,6 +50,10 @@ author:
 ### Posts ###
 permalink: /blog/:title
 
+sass:
+  sass_dir: _sass
+  style: compressed # or :expanded
+
 
 ### Collections ###
 collections:
