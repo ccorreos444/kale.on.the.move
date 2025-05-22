@@ -1,11 +1,11 @@
 ### Site Settings ###
-title               : Kale On The Move
+title               : Cale Correos | Travel/Coding Portfolio and Blog
 description         : >-
-                      Gay Filipino Beast. 
-                      This is my website for all my travel blogs, photos and side projects. 
-                      I'm a software engineer and part-time travel agent living in Los Angeles.
+                      Caleb (Cale) Correos: Gay Filipino Beast. Stanford grad living in Los Angeles.
+                      Software Engineer moonlighting as a travel agent focused on LGBTQ+ travel in East/Southeast Asia and dabbling in raving.
+                      
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : ccorreos444/kale.on.the.move      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : ccorreos444/ccorreos444.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
 open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
@@ -25,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Caleb (Cale) Correos
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  image             : /assets/cale-correos-landing.jpeg
   behance           : your_username
 # dribbble          : your_username
   email             : ccorreos@alumni.stanford.edu
