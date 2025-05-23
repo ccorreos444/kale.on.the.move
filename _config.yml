@@ -2,7 +2,7 @@
 title               : Cale Correos | Travel/Coding Portfolio and Blog
 description         : >-
                       Caleb (Cale) Correos: Gay Filipino Beast. Stanford grad living in Los Angeles.
-                      Software Engineer moonlighting as a travel agent focused on LGBTQ+ travel in East/Southeast Asia and dabbling in raving.
+                      Software Engineer moonlighting as a travel agent focused on LGBTQ+ travel in East/Southeast Asia.
                       
 baseurl             : "/kale.on.the.move"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : ccorreos444/ccorreos444.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
