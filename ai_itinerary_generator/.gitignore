@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data - Adjust these if you want to commit specific data files later
+*.csv
+*.json
+*.sqlite3
+# /data/*.csv  # Uncomment if you want to ignore all .csv files in data/
+# /data/*.db   # Uncomment if you want to ignore all .db files in data/
